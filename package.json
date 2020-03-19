@@ -1,11 +1,14 @@
 {
-  "name": "gatsby-starter-bee",
+  "name": "devdiary",
   "private": true,
-  "description": "Gatsby blog starter template",
+  "description": "🤟🏼",
   "version": "0.1.0",
-  "author": "Jbee[JaeYeopHan]<ljyhanll@gmail.com>",
+  "author": {
+    "name": "imsourceboom",
+    "email": "ecmascript.developer@gmail.com"
+  },
   "bugs": {
-    "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
+    "url": "https://github.com/imsourceboom/devdiary/issues"
   },
   "dependencies": {
     "gatsby": "^2.2.8",
@@ -71,7 +74,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaeYeopHan/gatsby-starter-bee.git"
+    "url": "git+https://github.com/imsourceboom/devdiary.git"
   },
   "scripts": {
     "post": "node ./cli/create-new-post.js",
